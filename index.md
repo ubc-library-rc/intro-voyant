@@ -25,11 +25,11 @@ At the end of this workshop, participants will be able to:
 
 ## Resources
 
-To follow along in this workshop please navigate to https://voyant-tools.org/.
+This workshop follows the excellent tutorial content included in the Voyant documentation: <a href="https://voyant-tools.org/docs/#!/guide/start">https://voyant-tools.org/docs/#!/guide/start</a>"
+{: .note}
 
-There is a desktop version of Voyant which can do more but for the purposes of this workshop we will be using the web version.
-
-Voyant Tools has an excellent guide which this workshop relies on as a resource:
-* [Voyant documentation](https://voyant-tools.org/docs/#!/guide/start)
+To follow along in this workshop please navigate to <a href="https://voyant-tools.org/">https://voyant-tools.org/</a>. While there is a desktop version of Voyant which can do more but for the purposes of this workshop we will be using the web version.
 
 The slides to this workshop are here: [https://ubc-library-rc.github.io/intro-voyant/slides/introduction.html#/](https://ubc-library-rc.github.io/intro-voyant/slides/introduction.html#/)
+
+For additional use cases on how and why to use Voyant explore the <a href="https://voyant-tools.org/docs/#!/guide/gallery'>Voyant Tools Gallery</a>.
