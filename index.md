@@ -7,7 +7,7 @@ nav_order: 1
 
 This workshop will provide an introduction to Voyant Tools, a toolkit that aims to make text analysis accessible.
 
-This is a [UBC Library Research Commons workshop](https://researchcommons.library.ubc.ca). For more information about our [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://researchcommons.library.ubc.ca/oer/) find us at https://researchcommons.library.ubc.ca.
+This is a UBC Library Research Commons workshop. For more information about our [upcoming workshops](https://researchcommons.library.ubc.ca/events/) and to view [our open workshop content](https://ubc-library-rc.github.io/) find us at https://researchcommons.library.ubc.ca (https://researchcommons.library.ubc.ca).
 
 ## Goals of this Workshop
 
@@ -18,10 +18,11 @@ At the end of this workshop, participants will be able to:
 
 ## Schedule
 
-| 0:00 | Welcome and using Zoom|
+| 0:00 | Welcome |
 | 0:05 | Introduction |  
 | 0:20 | Tour of Voyant Tools |
-| 1:00 | Discussion and wrap-up |
+| 1:00 | Optional Project Work Block |
+| 1:50 | Wrap-up |
 
 ## Resources
 
